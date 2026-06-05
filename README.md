@@ -68,5 +68,6 @@ For more information on using the Angular CLI, including detailed command refere
 
 ## Laptop Responsive 
 <img width="1912" height="887" alt="image" src="https://github.com/user-attachments/assets/c2d68e8c-0310-40d5-9ca2-91a4cd3fd98c" />
-<img width="1858" height="497" alt="image" src="https://github.com/user-attachments/assets/f94334b7-865b-4c1a-908e-89c033871c36" />
+<img width="1487" height="353" alt="image" src="https://github.com/user-attachments/assets/c1eb3c83-35a0-48a3-ac8e-31c70a8215da" />
+
 
